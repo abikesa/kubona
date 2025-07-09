@@ -50,7 +50,7 @@ All rights reserved.
 
 ## Visual Placeholder
 
-![President Museveni launches traditional music album](placeholder_kubona.jpeg)
+![President Museveni launches traditional music album](kubona.jpeg)
 
 ---
 
