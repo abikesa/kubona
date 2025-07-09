@@ -25,7 +25,7 @@ These subtle variations emphasize not only physical perception but emotional and
 From a cultural speech by President Yoweri Museveni during the launch of a traditional music album ([link](https://www.yowerikmuseveni.com/president-launches-traditional-music-album)):
 
 - The verb *kubona* means **to see** or **to find** across many Bantu languages.
-- In **Zulu** and **Xhosa**, greetings such as “Sauboona” stem from the verb *kubona*, literally meaning *to see*.
+- In **Zulu** and **Xhosa**, greetings such as [Sawubona](https://www.loominternational.org/sawubona/) stem from the verb *kubona*, literally meaning *to see*.
 - In Ugandan dialects like **Luganda** and **Runyankore**, the verb *kubona* specifically evolved to mean *to find something lost*, while newer terms such as *kulaba* (Luganda) and *kureeba* (Runyankore) are used for *to see*.
 - The **Ibo** language in Nigeria has a word meaning **love** that resonates with the emotional core of *okubona* in Runyoro-Rutooro, tying the concept of "finding" or "seeing" to an affectionate or relational sense.
 
